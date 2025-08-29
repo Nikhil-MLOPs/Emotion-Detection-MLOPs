@@ -20,6 +20,6 @@ To integrate MLOps principles, the project uses:
 
 - Streamlit to provide an interactive user interface for predictions.
 
-Kubernetes for orchestration and scalability.
+- Kubernetes for orchestration and scalability.
 
-Prometheus & Grafana for monitoring and visualization of deployed services.
+- Prometheus & Grafana for monitoring and visualization of deployed services.
